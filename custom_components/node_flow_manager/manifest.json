@@ -1,0 +1,14 @@
+{
+  "domain": "ha_node_flow_manager",
+  "name": "HA Node-RED Flow Manager",
+  "codeowners": [
+    "@VilniusTechnology"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/VilniusTechnology/ha-node-flow-manager",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/VilniusTechnology/ha-node-flow-manager/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
